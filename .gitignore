@@ -1,0 +1,7 @@
+#ignoring specific files
+
+#ignoring virtual environemtn folder
+housing_prices_environment/
+
+#checkpoints
+.ipynb_checkpoints
